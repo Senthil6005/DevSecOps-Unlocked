@@ -1,4 +1,4 @@
-# 🔓 DevSecOps Unlocked – 30 Tools
+# 🔓 DevSecOps Unlocked 
 
 > 🛡️ Hackers don't wait for your release date. Learn to build pipelines that stop them – 30 DevSecOps tools with simple notes, real commands and interview Q&A.
 >
