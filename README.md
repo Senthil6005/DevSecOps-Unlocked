@@ -71,6 +71,10 @@ Each folder covers one tool with: what it is, why it matters for security, key c
 
 | 30 | [Wazuh](30-WAZUH/README.md) | 📊 SIEM & XDR |
 
+| 31 | [ECS](31-ECS/README.md) | AWS Container Orchestration |
+
+| 32 | [EKS](32-EKS/README.md) | AWS Managed Kubernetes |
+
 ## 🛠️ Prerequisites
 - Linux basics (see **Linux-Unlocked**)
 - Git, Docker and basic AWS knowledge
