@@ -7,8 +7,7 @@
 Each folder covers one tool with: what it is, why it matters for security, key concepts, commands, interview questions and practice tasks. Start with **00-INTRO** and follow the order – it matches a real secure CI/CD pipeline.
 
 ## 📚 Course Index
-| No. | Tool | Phase |
-|-----|------|-------|
+
 | 00 | [Introduction to DevSecOps](00-INTRO/README.md) | 🎯 Start here |
 
 | 01 | [Git & GitHub](01-GIT-GITHUB/README.md) | 🧑‍💻 Code |
